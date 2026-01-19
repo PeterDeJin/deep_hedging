@@ -1,5 +1,7 @@
 # Deep Hedging Project
 
-這是我的 Deep Hedging 作品，請點擊下方連結查看：
+Read the Deep hedging(Buehler, H., Gonon, L., Teichmann, J., Wood, B. (2019). Deep hedging. Quantitative Finance, 19(8), 1271-1291.) article and use Python to present its theory and conclusion. Finally, adjust the functions and parameters and observe the changes in the conclusion.
 
-[點擊這裡前往作品網頁](https://hackmd.io/@JYang/SJOMoqNWA/%2Fr6l2ZZouT-ivlYcLy0aeJg)
+This is my 'Deep Hedging' link ，please click the link below to view.：
+
+[Click here to go to the work's webpage](https://hackmd.io/@JYang/SJOMoqNWA/%2Fr6l2ZZouT-ivlYcLy0aeJg)
